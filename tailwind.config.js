@@ -1,0 +1,1 @@
+//Need an config file for tailwind IntelliSense to work
